@@ -18,7 +18,7 @@ class Sobaka(Tvaryna):
 
 class Kit(Tvaryna):
     def govoryty(self):
-        return "Мяу!"
+        return "Мяу!!"
 
 
 tvaryna1 = Sobaka("Барон", 3)
