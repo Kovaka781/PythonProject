@@ -15,5 +15,4 @@ def divide_numbers(a, b):
         logging.error("Помилка при діленні чисел", exc_info=True)
         print("Виникла помилка. Деталі записані у файл 'error_log.txt'.")
 
-# Тестовий виклик
 divide_numbers(10, 0)
